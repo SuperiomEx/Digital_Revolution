@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3MmI5Y2I5OGM5Y2JiMDM4NjQ3NjFkNzM3YzRkYjJlZDVlZDM3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f7omQNmgiyjj5sffvZ/giphy.gif" width="500px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3MmI5Y2I5OGM5Y2JiMDM4NjQ3NjFkNzM3YzRkYjJlZDVlZDM3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f7omQNmgiyjj5sffvZ/giphy.gif" width="300px">
 </p>
 
 ## 📑 Tabla de Contenidos
