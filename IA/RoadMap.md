@@ -1,198 +1,172 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separador" width="100%">
+
 # 🤖 Guía de Aprendizaje: Fundamentos de Machine Learning
+### Tu camino hacia la Inteligencia Artificial
 
-<div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 10px; border-radius: 10px; margin: 20px 0;">
-  <h3 style="color: white; margin: 0;">Road Map 2024</h3>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separador" width="100%">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dificultad-Intermedia-yellow?style=for-the-badge&logo=tensorflow" alt="Dificultad"/>
+  <img src="https://img.shields.io/badge/Tiempo-6%20meses-blue?style=for-the-badge&logo=clockify" alt="Tiempo"/>
+  <img src="https://img.shields.io/badge/Python-Requerido-green?style=for-the-badge&logo=python" alt="Python"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="separador" width="100%">
+
 </div>
 
-[<img src="https://img.shields.io/badge/Dificultad-Intermedia-yellow?style=for-the-badge&logo=tensorflow" alt="Dificultad">](https://github.com/tu-usuario/tu-repo)
-[<img src="https://img.shields.io/badge/Tiempo-6%20meses-blue?style=for-the-badge&logo=clockify" alt="Tiempo">](https://github.com/tu-usuario/tu-repo)
-[<img src="https://img.shields.io/badge/Python-Requerido-green?style=for-the-badge&logo=python" alt="Python">](https://github.com/tu-usuario/tu-repo)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3MmI5Y2I5OGM5Y2JiMDM4NjQ3NjFkNzM3YzRkYjJlZDVlZDM3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f7omQNmgiyjj5sffvZ/giphy.gif" width="500px">
+</p>
 
-</div>
-
----
+## 📑 Tabla de Contenidos
 
 <details open>
-<summary><h2>📑 Tabla de Contenidos</h2></summary>
+<summary>Navega por la guía 🗺️</summary>
 
-1. [🎯 Introducción](#-introducción)
-2. [📐 Matemáticas](#-matemáticas)
-3. [💻 Programación](#-programación)
-4. [🧠 Modelos de Machine Learning](#-modelos-de-machine-learning)
-5. [📝 Conclusión](#-conclusión)
+1. [🎯 Introducción](#introducción)
+2. [📐 Matemáticas](#matemáticas)
+3. [💻 Programación](#programación)
+4. [🧠 Modelos de Machine Learning](#modelos-de-machine-learning)
+5. [📝 Conclusión](#conclusión)
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="separador" width="100%">
 
 ## 🎯 Introducción
 
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 4px solid #007bff;">
-<h3>💡 ¿Qué es Machine Learning?</h3>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM4YjM1ZTY4ZmM1ZjEyYzM4ZjEzYjU0ZWM5ZDM4ZjI5ZmU1ZjZhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300px">
 
-Machine Learning es un campo interdisciplinario que combina matemáticas, programación y análisis de datos para entrenar modelos que realizan predicciones y automatizan procesos complejos.
+> 💡 **¿Qué es Machine Learning?**
+>
+> Machine Learning es un campo interdisciplinario que combina matemáticas, programación y análisis de datos para entrenar modelos que realizan predicciones y automatizan procesos complejos.
 
-</div>
+<br>
 
-| 🎯 Objetivo         | ⏱️ Duración | 📚 Prerrequisitos      |
-|---------------------|-------------|------------------------|
-| Dominar ML          | 6 meses     | Programación básica     |
+| 🎯 Objetivo | ⏱️ Duración | 📚 Prerrequisitos |
+|:------------:|:-----------:|:-----------------:|
+| Dominar ML | 6 meses    | Programación básica |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="separador" width="100%">
 
 ## 📐 Matemáticas
 
-<div style="background-color: #fff3cd; padding: 15px; border-radius: 8px; margin: 20px 0;">
-<h3>⚠️ Nota Importante</h3>
-Los temas de matemáticas requieren una comprensión básica. Enfócate en entender los conceptos fundamentales.
-</div>
+> ⚠️ **Nota Importante**
+>
+> Los temas de matemáticas requieren una comprensión básica. Enfócate en entender los conceptos fundamentales.
+
 
 ### 📊 Probabilidad y Estadística
-<div class="grid-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px;">
-<div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
 
-#### 📈 Conceptos Básicos
-- Distribuciones numéricas
-- Moda, media, mediana
-- Sesgo y cuartiles
+<details open>
+<summary><b>📈 Conceptos Básicos</b></summary>
 
-</div>
-<div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
+- 📊 Distribuciones numéricas
+- 📈 Moda, media, mediana
+- 📉 Sesgo y cuartiles
 
-#### 📊 Análisis
-- Tipos de variables
-- Gráficas estadísticas
-- Métricas de evaluación
-- Desviacion estandar
-- Modelos de regrecion
-- Modelos de clasificacion
-- Clustering
-- Reduccion de dimencionalidad
+</details>
 
-</div>
-</div>
+<details open>
+<summary><b>📊 Análisis</b></summary>
+
+- 📋 Tipos de variables
+- 📊 Gráficas estadísticas
+- 📏 Métricas de evaluación
+- 📈 Desviación estándar
+- 📉 Modelos de regresión
+- 🎯 Modelos de clasificación
+- 🔄 Clustering
+- 📊 Reducción de dimensionalidad
+
+</details>
 
 ### 🔢 Álgebra Lineal & Cálculo
-<div style="display: flex; gap: 20px; margin: 20px 0;">
-<div style="flex: 1; background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
 
-#### 📏 Álgebra
-- Matrices y vectores
-- Operaciones matemáticas
+<details open>
+<summary><b>📏 Álgebra</b></summary>
 
-</div>
-<div style="flex: 1; background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
+- 🔢 Matrices y vectores
+- ➗ Operaciones matemáticas
 
-#### ∫ Cálculo
-- Derivadas
-- Integrales básicas
+</details>
 
-</div>
-</div>
+<details open>
+<summary><b>∫ Cálculo</b></summary>
 
----
+- 📈 Derivadas
+- ∫ Integrales básicas
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separador" width="100%">
 
 ## 💻 Programación
 
-<div style="background-color: #d4edda; padding: 15px; border-radius: 8px; margin: 20px 0;">
-<h3>🚀 Nivel de Profundidad</h3>
-A partir de aquí, todos los temas requieren un aprendizaje profundo y práctica constante.
-</div>
+> 🚀 **Nivel de Profundidad**
+>
+> A partir de aquí, todos los temas requieren un aprendizaje profundo y práctica constante.
 
 ### 🛠️ Stack Tecnológico
-<div style="overflow-x: auto;">
-<table style="width: 100%; border-collapse: collapse;">
-<tr style="background-color: #f8f9fa;">
-    <th style="padding: 12px; text-align: left;">Herramienta</th>
-    <th style="padding: 12px; text-align: left;">Uso</th>
-    <th style="padding: 12px; text-align: left;">Prioridad</th>
-</tr>
-<tr>
-    <td><code>Python</code> 🐍</td>
-    <td>Lenguaje principal</td>
-    <td>⭐⭐⭐⭐⭐</td>
-</tr>
-<tr>
-    <td><code>pandas</code> 📊</td>
-    <td>Manipulación de datos</td>
-    <td>⭐⭐⭐⭐</td>
-</tr>
-<tr>
-    <td><code>NumPy</code> 🔢</td>
-    <td>Cálculos matemáticos</td>
-    <td>⭐⭐⭐⭐</td>
-</tr>
-<tr>
-    <td><code>scikit-learn</code> 🤖</td>
-    <td>Modelos de ML</td>
-    <td>⭐⭐⭐⭐⭐</td>
-</tr>
-<tr>
-    <td><code>TensorFlow</code> 🧠</td>
-    <td>Redes neuronales</td>
-    <td>⭐⭐⭐</td>
-</tr>
-</table>
-</div>
 
----
+| Herramienta | Uso | Prioridad |
+|:-----------:|:---:|:---------:|
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | Lenguaje principal | ⭐⭐⭐⭐⭐ |
+| ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | Manipulación de datos | ⭐⭐⭐⭐ |
+| ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) | Cálculos matemáticos | ⭐⭐⭐⭐ |
+| ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Modelos de ML | ⭐⭐⭐⭐⭐ |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | Redes neuronales | ⭐⭐⭐ |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="separador" width="100%">
 
 ## 🧠 Modelos de Machine Learning
 
 ### ⚙️ Procesos Fundamentales
-<div class="process-container" style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-<div style="flex: 1; min-width: 200px; background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
-    <h4>🎯 Training & Testing</h4>
-    <p>Entrenamiento, testing de modelos y tipos de prediccion</p>
-</div>
-<div style="flex: 1; min-width: 200px; background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
-    <h4>⚖️ Optimización</h4>
-    <p>Control de overfitting/underfitting</p>
-</div>
-<div style="flex: 1; min-width: 200px; background-color: #f8f9fa; padding: 15px; border-radius: 8px;">
-    <h4>🔄 Tipos de Aprendizaje</h4>
-    <p>Supervisado, no supervisado, semi-supervisado</p>
-</div>
-</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3MmI5Y2I5OGM5Y2JiMDM4NjQ3NjFkNzM3YzRkYjJlZDVlZDM3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KAq5w47R9rmTuvWOWa/giphy.gif" width="100px">
+</p>
+
+- 🎯 **Training & Testing**
+  > Entrenamiento, testing de modelos y tipos de predicción
+
+- ⚖️ **Optimización**
+  > Control de overfitting/underfitting
+
+- 🔄 **Tipos de Aprendizaje**
+  > Supervisado, no supervisado, semi-supervisado
 
 ### 🤖 Ruta de Aprendizaje de Modelos
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px;">
-<ol style="list-style-type: none;">
-    <li>📈 1. Modelos lineales</li>
-    <li>🎯 2. Máquinas de soporte vectorial (SVM)</li>
-    <li>📊 3. Análisis de componentes principales (PCA)</li>
-    <li>🔄 4. K-means clustering</li>
-    <li>🌳 5. Árboles de decisión y Random Forest</li>
-    <li>🧠 6. Redes neuronales</li>
-</ol>
-</div>
 
----
+1. 📈 Modelos lineales
+2. 🎯 Máquinas de soporte vectorial (SVM)
+3. 📊 Análisis de componentes principales (PCA)
+4. 🔄 K-means clustering
+5. 🌳 Árboles de decisión y Random Forest
+6. 🧠 Redes neuronales
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separador" width="100%">
 
 ## 📝 Conclusión
 
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 4px solid #28a745;">
-<h3>🎓 Claves del Éxito</h3>
-<ul>
-    <li>✨ Practica regularmente</li>
-    <li>🛠️ Construye proyectos</li>
-    <li>📚 Mantente actualizado</li>
-    <li>👥 Únete a comunidades</li>
-</ul>
-</div>
+### 🎓 Claves del Éxito
 
-<div align="center" style="margin-top: 40px;">
+- ✨ Practica regularmente
+- 🛠️ Construye proyectos
+- 📚 Mantente actualizado
+- 👥 Únete a comunidades
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separador" width="100%">
 
 ### 🚀 ¡Comienza tu viaje en Machine Learning!
 
-<div style="margin: 20px 0;">
-<a href="https://github.com/Ansonii11" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Sígueme-en_GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-</div>
+[![GitHub](https://img.shields.io/badge/Sígueme-en_GitHub-black?style=for-the-badge&logo=github)](https://github.com/Ansonii11)
 
-<sub>Creado con ❤️ para la comunidad de Revolucion Digital</sub>
+<sub>Creado con ❤️ para la comunidad de Revolución Digital</sub>
 
 </div>
