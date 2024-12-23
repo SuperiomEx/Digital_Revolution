@@ -36,20 +36,9 @@ Machine Learning es un campo interdisciplinario que combina matemáticas, progra
 
 </div>
 
-<div style="display: flex; justify-content: space-around; margin: 20px 0;">
-<div style="text-align: center; padding: 10px;">
-    <h4>🎯 Objetivo</h4>
-    Dominar ML
-</div>
-<div style="text-align: center; padding: 10px;">
-    <h4>⏱️ Duración</h4>
-    6 meses
-</div>
-<div style="text-align: center; padding: 10px;">
-    <h4>📚 Prerrequisitos</h4>
-    Programación básica
-</div>
-</div>
+| 🎯 Objetivo         | ⏱️ Duración | 📚 Prerrequisitos      |
+|---------------------|-------------|------------------------|
+| Dominar ML          | 6 meses     | Programación básica     |
 
 ---
 
