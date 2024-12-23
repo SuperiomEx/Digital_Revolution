@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="40" height="40"> Guía de Aprendizaje: Fundamentos de Machine Learning
+# 🤖 Guía de Aprendizaje: Fundamentos de Machine Learning
 
 <div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 10px; border-radius: 10px; margin: 20px 0;">
   <h3 style="color: white; margin: 0;">Road Map 2024</h3>
