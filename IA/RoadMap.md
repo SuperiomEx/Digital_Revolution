@@ -26,11 +26,11 @@
 <details open>
 <summary>Navega por la guía 🗺️</summary>
 
-1. [🎯 Introducción](#introducción)
-2. [📐 Matemáticas](#matemáticas)
-3. [💻 Programación](#programación)
-4. [🧠 Modelos de Machine Learning](#modelos-de-machine-learning)
-5. [📝 Conclusión](#conclusión)
+1. [🎯 Introducción](#-introducción)
+2. [📐 Matemáticas](#-matemáticas)
+3. [💻 Programación](#-programación)
+4. [🧠 Modelos de Machine Learning](#-modelos-de-machine-learning)
+5. [📝 Conclusión](#-conclusión)
 
 </details>
 
