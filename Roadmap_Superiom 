@@ -1,80 +1,72 @@
-# Roadmap Superiom
+# Crear el archivo Markdown solicitado por el usuario y guardarlo en el sistema de archivos
 
-Un roadmap para organizar los objetivos y progresos del proyecto.
+# Contenido del archivo Markdown
+markdown_content = """
+# Roadmap: Introducción a la Programación
+
+Un plan básico para ayudar a los cubanos a comenzar en el mundo de la programación.
 
 ---
 
-## **Fase 1: Configuración Inicial**
+## **1. Primeros Pasos**
 ### Objetivos:
-- [x] Crear repositorio en GitHub.
-- [x] Configurar ramas principales (`main`, `develop`).
-- [ ] Establecer un archivo README con la descripción del proyecto.
+- [ ] Elegir un lenguaje de programación.
+- [ ] Familiarizarse con el entorno de desarrollo.
 
-### Tareas Detalladas:
-1. **Estructura básica:**
-   - Crear carpetas para organización (`src`, `docs`, etc.).
-   - Agregar `.gitignore` para excluir archivos innecesarios.
-2. **Primera contribución:**
-   - Crear un archivo base de prueba.
-   - Hacer el primer pull request.
+### Recursos:
+- Aprende **Python** para comenzar: Es simple y poderoso.
+- Instala **PyDroid** para programar Python desde Android.
 
 ---
 
-## **Fase 2: Desarrollo**
-### Objetivos:
-- [ ] Implementar funcionalidades principales.
-- [ ] Configurar CI/CD para automatizar el despliegue.
+## **2. Fundamentos de la Programación**
+### Conceptos Clave:
+- [ ] Variables y tipos de datos.
+- [ ] Condicionales (`if`, `else`).
+- [ ] Bucles (`for`, `while`).
 
-### Tareas Detalladas:
-1. **Desarrollo de Features:**
-   - Crear un módulo principal de autenticación.
-   - Agregar soporte para la base de datos.
-2. **Integraciones:**
-   - Integrar una API externa.
-   - Configurar un servidor de pruebas.
-
----
-
-## **Fase 3: Pruebas y Documentación**
-### Objetivos:
-- [ ] Realizar pruebas unitarias y de integración.
-- [ ] Completar la documentación del proyecto.
-
-### Tareas Detalladas:
-1. **Pruebas:**
-   - Configurar un framework de testing.
-   - Asegurar al menos un 80% de cobertura.
-2. **Documentación:**
-   - Actualizar README con ejemplos de uso.
-   - Crear guías para contribuidores.
+### Ejemplo:
+```python
+# Ejemplo básico en Python
+for i in range(1, 6):
+    print(f"Hola Cuba {i}!")
+```
 
 ---
 
-## **Fase 4: Despliegue**
-### Objetivos:
-- [ ] Publicar la versión 1.0 en producción.
-- [ ] Configurar un sistema de monitoreo.
-
-### Tareas Detalladas:
-1. **Lanzamiento:**
-   - Configurar entorno de producción.
-   - Crear una página de changelog.
-2. **Mantenimiento:**
-   - Configurar monitoreo de errores.
-   - Planificar futuras iteraciones.
+## **3. Proyectos Básicos**
+### Ideas de Proyecto:
+- [ ] Calculadora básica.
+- [ ] Generador de contraseñas.
+- [ ] Conversor de temperaturas.
 
 ---
 
-## Progreso General
-| Fase       | Completado (%) |
-|------------|----------------|
-| Fase 1     | 70%            |
-| Fase 2     | 10%            |
-| Fase 3     | 0%             |
-| Fase 4     | 0%             |
+## **4. Subir tu Código**
+### Pasos:
+1. Crea un repositorio en GitHub.
+2. Usa comandos básicos de Git:
+   ```bash
+   git init
+   git add .
+   git commit -m "Mi primer proyecto"
+   git push origin main
+   ```
 
 ---
 
-### Notas:
-- Este roadmap es un documento vivo y está sujeto a cambios según las necesidades del proyecto.
-- Actualiza las casillas `[ ]` a `[x]` conforme se completen las tareas.
+## **Consejos para Cubanos:**
+- Usa herramientas offline siempre que sea posible.
+- Aprovecha recursos como [Python Docs](https://docs.python.org/es/) para aprender.
+
+¡Mucho éxito en tu camino!
+"""
+
+# Ruta para guardar el archivo
+file_path = "/mnt/data/Roadmap_Programacion_Cubanos.md"
+
+# Crear el archivo
+with open(file_path, "w") as file:
+    file.write(markdown_content)
+
+file_path
