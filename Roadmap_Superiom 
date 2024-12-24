@@ -1,0 +1,80 @@
+# Roadmap Superiom
+
+Un roadmap para organizar los objetivos y progresos del proyecto.
+
+---
+
+## **Fase 1: Configuración Inicial**
+### Objetivos:
+- [x] Crear repositorio en GitHub.
+- [x] Configurar ramas principales (`main`, `develop`).
+- [ ] Establecer un archivo README con la descripción del proyecto.
+
+### Tareas Detalladas:
+1. **Estructura básica:**
+   - Crear carpetas para organización (`src`, `docs`, etc.).
+   - Agregar `.gitignore` para excluir archivos innecesarios.
+2. **Primera contribución:**
+   - Crear un archivo base de prueba.
+   - Hacer el primer pull request.
+
+---
+
+## **Fase 2: Desarrollo**
+### Objetivos:
+- [ ] Implementar funcionalidades principales.
+- [ ] Configurar CI/CD para automatizar el despliegue.
+
+### Tareas Detalladas:
+1. **Desarrollo de Features:**
+   - Crear un módulo principal de autenticación.
+   - Agregar soporte para la base de datos.
+2. **Integraciones:**
+   - Integrar una API externa.
+   - Configurar un servidor de pruebas.
+
+---
+
+## **Fase 3: Pruebas y Documentación**
+### Objetivos:
+- [ ] Realizar pruebas unitarias y de integración.
+- [ ] Completar la documentación del proyecto.
+
+### Tareas Detalladas:
+1. **Pruebas:**
+   - Configurar un framework de testing.
+   - Asegurar al menos un 80% de cobertura.
+2. **Documentación:**
+   - Actualizar README con ejemplos de uso.
+   - Crear guías para contribuidores.
+
+---
+
+## **Fase 4: Despliegue**
+### Objetivos:
+- [ ] Publicar la versión 1.0 en producción.
+- [ ] Configurar un sistema de monitoreo.
+
+### Tareas Detalladas:
+1. **Lanzamiento:**
+   - Configurar entorno de producción.
+   - Crear una página de changelog.
+2. **Mantenimiento:**
+   - Configurar monitoreo de errores.
+   - Planificar futuras iteraciones.
+
+---
+
+## Progreso General
+| Fase       | Completado (%) |
+|------------|----------------|
+| Fase 1     | 70%            |
+| Fase 2     | 10%            |
+| Fase 3     | 0%             |
+| Fase 4     | 0%             |
+
+---
+
+### Notas:
+- Este roadmap es un documento vivo y está sujeto a cambios según las necesidades del proyecto.
+- Actualiza las casillas `[ ]` a `[x]` conforme se completen las tareas.
