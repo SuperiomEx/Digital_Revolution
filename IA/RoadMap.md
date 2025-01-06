@@ -118,6 +118,7 @@
 | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | Manipulación de datos | ⭐⭐⭐⭐ |
 | ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) | Cálculos matemáticos | ⭐⭐⭐⭐ |
 | ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Modelos de ML | ⭐⭐⭐⭐⭐ |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | Redes neuronales y aprendizaje profundo | ⭐⭐⭐⭐ |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | Redes neuronales | ⭐⭐⭐ |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="separador" width="100%">
