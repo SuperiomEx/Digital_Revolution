@@ -120,6 +120,8 @@
 | ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Modelos de ML | ⭐⭐⭐⭐⭐ |
 | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | Redes neuronales y aprendizaje profundo | ⭐⭐⭐⭐ |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | Redes neuronales | ⭐⭐⭐ |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | Visualización de datos | ⭐⭐⭐⭐ |
+| ![Seaborn](https://img.shields.io/badge/Seaborn-79ABFF?style=for-the-badge) | Visualización estadística | ⭐⭐⭐ |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="separador" width="100%">
 
@@ -142,16 +144,21 @@
 
 ### 🤖 Ruta de Aprendizaje de Modelos
 
-1. 📈 Modelos lineales
-2. 🎯 Máquinas de soporte vectorial (SVM)
-3. 📊 Análisis de componentes principales (PCA)
-4. 🔄 K-means clustering
-5. 🌳 Árboles de decisión y Random Forest
-6. 🧠 Redes neuronales
+1. 📈 Modelos lineales (Regresión lineal, Regresión logística)
+2. 🎯 Máquinas de soporte vectorial (SVM) - Clasificación y regresión
+3. 📊 Análisis de componentes principales (PCA) - Reducción dimensional
+4. 🔄 K-means clustering - Agrupamiento no supervisado
+5. 🌳 Árboles de decisión y Random Forest - Clasificación y feature importance
+6. 🧠 Redes neuronales - Perceptrones multicapa
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separador" width="100%">
 
 ## 📝 Conclusión
+
+## 📚 Recursos Adicionales
+### Libros Recomendados
+- ["Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" (Aurélien Géron)](https://devfolio.co/projects/handson-machine-learning-with-scikitlearn-and-tensorflow-pdf-free-download-0355)
+- ["Pattern Recognition and Machine Learning" (Christopher Bishop)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ### 🎓 Claves del Éxito
 
